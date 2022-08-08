@@ -1,5 +1,7 @@
 # Framing_Affective_Dimensions
 
+Details for Paper : Frames and their Affective Dimensions: A Case Study of Climate Change News Articles
+
 ## Appendix 1
 
 Definition of framing dimensions from Boydstun, A.E., Card, D., Gross, J., Resnick, P., A. Smith, N.,
